@@ -4,7 +4,13 @@ Aplicación para la gestión de clientes y pedidos, mediante el uso de MySQL com
 
 ## Instalación
 
-En el proyecto se han incluido las librerías necesarias para la creación de gráficos y 
+Es necesario y básico tener tu base de datos MySQL, así como configurar en el archivo practica.properties tu variables de entorno para la comunicación con tu base de datos (Url, user y password).
+
+
+He adjuntado en libsJPA las librerías para JPA con Hibernate y dentro también he incluido el mysql-connector en su version 8.0.32.
+En el proyecto se han incluido las librerías necesarias para la creación de gráficos.
+
+
 
 ## Uso
 
