@@ -14,7 +14,7 @@ En el proyecto se han incluido las librerías necesarias para la creación de gr
 
 ## Uso
 
-Guía de uso y ejemplos aquí.
+Una vez configurada la ruta de la base de datos y las variables de entorno el código de momento está hecho para que puedas entrar con el rol admin.
 
 ## Capturas de Pantalla
 
