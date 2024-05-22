@@ -18,7 +18,6 @@ En el proyecto se han incluido las librerías necesarias para la creación de gr
 Una vez configurada la ruta de la base de datos y las variables de entorno, el código de momento está hecho para que puedas entrar con el rol admin.
 
 ## Capturas de Pantalla
-El login
 ![Captura de Pantalla 1](/imagesREADME/login.png)
 Sección de facturas
 ![Captura de Pantalla 2](/imagesREADME/Bills.png)
