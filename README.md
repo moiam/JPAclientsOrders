@@ -12,14 +12,17 @@ En el proyecto se han incluido las librerías necesarias para la creación de gr
 
 
 
+
 ## Uso
 
-Una vez configurada la ruta de la base de datos y las variables de entorno el código de momento está hecho para que puedas entrar con el rol admin.
+Una vez configurada la ruta de la base de datos y las variables de entorno, el código de momento está hecho para que puedas entrar con el rol admin.
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](/ruta/a/imagen1.png)
-![Captura de Pantalla 2](/ruta/a/imagen2.png)
+![Captura de Pantalla 1](/imagesREADME/login.png)
+![Captura de Pantalla 2](/imagesREADME/Bills.png)
+![Captura de Pantalla 2](/imagesREADME/addClient.png)
+![Captura de Pantalla 2](/imagesREADME/Graphs.png)
 
 ## Ejemplos de Código
 
