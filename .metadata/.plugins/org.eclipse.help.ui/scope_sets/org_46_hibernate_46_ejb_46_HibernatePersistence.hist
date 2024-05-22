@@ -1,0 +1,6 @@
+#Mon Mar 04 19:43:53 CET 2024
+expression=org.hibernate.ejb.HibernatePersistence
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.sdk.Eclipse.master=true
+__DEFAULT__=false

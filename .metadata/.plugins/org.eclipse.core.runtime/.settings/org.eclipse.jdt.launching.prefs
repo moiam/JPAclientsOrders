@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType32,com.oracle.java.JavaAppletPlugin" defaultVMConnector\="">\n    <vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n        <vm id\="com.oracle.java.JavaAppletPlugin" name\="Java [1.8.361.09]" path\="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"/>\n    </vmType>\n</vmSettings>\n
