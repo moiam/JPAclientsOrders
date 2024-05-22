@@ -50,7 +50,7 @@ public class BdOperaciones {
 		    FileInputStream archivoConfiguracion = null;
 
 		    try {
-		        archivoConfiguracion = new FileInputStream("/Users/moi.am/eclipse-workspace/Gestión de clientes/GestionClientes/src/properties/practica.properties");
+		        archivoConfiguracion = new FileInputStream("/ruta/de/tu/archivo/properties"); //aqui llamamos al archivo properties que contiene la URL, User y password de la base de datos MySQL
 		        propiedades.load(archivoConfiguracion);
 		        // Obtener los valores de configuración y asignarlos a las variables de instancia
 		        dbUrl = propiedades.getProperty("db.url");
