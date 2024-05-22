@@ -172,6 +172,7 @@ public class ListaPedido extends JPanel {
 		String pedido = tFNPedido.getText();
 		
 		BdOperaciones bdOperaciones = new BdOperaciones();
+		bdOperaciones.abrirConexion();
 		if (dni.isEmpty()||dni.equals(placeholder)) {
 			
 			tFClienteDni.setBackground(new Color(255, 0, 0, 100)); 
