@@ -15,7 +15,7 @@ En el proyecto se han incluido las librerías necesarias para la creación de gr
 
 ## Uso
 
-Una vez configurada la ruta de la base de datos y las variables de entorno, el código de momento está hecho para que puedas entrar con el rol admin.
+Una vez configurada la ruta de la base de datos y las variables de entorno, el código de momento está hecho para que puedas entrar con el rol admin (aplicándose igualmente las validaciones de rol o user, según correponda).
 
 ## Capturas de Pantalla
 ![Captura de Pantalla 1](/imagesREADME/login.png)
