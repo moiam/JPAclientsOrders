@@ -428,11 +428,5 @@ public class BdOperaciones {
 
 
 
-/*#Sun Jun 11 18:47:21 CEST 2023
-db.url=jdbc\:mysql\://localhost/practica
+/*#Sun Jun 11 18:47:21 2023*/
 
-db.user=root
-db.password=admin123
-
-db.user.invitado=invitado
-db.password.invitado=invitado*/
